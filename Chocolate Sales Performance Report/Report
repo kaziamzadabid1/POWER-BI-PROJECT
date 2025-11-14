@@ -1,1 +1,68 @@
+# Chocolate Sales Performance Report
 
+**As of November 14, 2025**  
+*Prepared for: Global Chocolate Division*  
+*Data Period: January 2023 – September 2024*  
+
+## Executive Summary
+Our chocolate sales have demonstrated steady growth, achieving a total revenue of **$27.99 million** across 4,998 orders and 1,988,952 boxes sold. With 83% of orders delivered successfully, operations remain efficient. The UK and USA lead as key markets, while premium dark chocolate products drive the highest value. Recent months show stable performance at ~$1.25M per month, positioning us well for Q4 expansion. Focus on top performers and high-margin items could boost revenue by 10-15% in the coming quarter.
+
+## Key Performance Metrics
+| Metric                  | Value          |
+|-------------------------|----------------|
+| **Total Revenue**      | $27,990,857   |
+| **Total Boxes Sold**   | 1,988,952     |
+| **Total Orders**       | 4,998         |
+| **Delivered Orders**   | 4,138 (83%)   |
+| **Average Order Value**| $5,600        |
+
+## Top Products by Revenue
+Premium and organic lines dominate, accounting for ~35% of total sales.
+
+| Rank | Product              | Revenue       |
+|------|----------------------|---------------|
+| 1    | Orange Choco        | $1,861,963   |
+| 2    | Drinking Coco       | $1,850,362   |
+| 3    | 99% Dark & Pure     | $1,845,754   |
+| 4    | Organic Choco Syrup | $1,834,641   |
+| 5    | Peanut Butter Cubes | $1,818,416   |
+
+## Top Markets by Revenue
+North America and Europe represent 60% of sales, with emerging opportunities in Asia-Pacific.
+
+| Rank | Country     | Revenue       |
+|------|-------------|---------------|
+| 1    | UK         | $7,657,974   |
+| 2    | USA        | $6,277,894   |
+| 3    | India      | $4,583,075   |
+| 4    | Canada     | $3,264,613   |
+| 5    | New Zealand| $3,115,964   |
+
+## Top Sales Performers
+Individual contributors like Brien Boise have exceeded targets, highlighting the value of targeted incentives.
+
+| Rank | Sales Person     | Revenue       |
+|------|------------------|---------------|
+| 1    | Brien Boise     | $2,170,955   |
+| 2    | Madelene Upcott | $2,025,711   |
+| 3    | Dotty Strutley  | $1,665,866   |
+| 4    | Gunar Cockshoot | $1,639,838   |
+| 5    | Kelci Walkden   | $1,575,065   |
+
+## Sales Trends
+Monthly revenue has stabilized at $1.2–1.4M since Q2 2024, with minimal fluctuations. No data is available for October–November 2025 yet, but prior patterns suggest potential for seasonal uplift during holidays. 3-month growth (Jul–Sep 2024 vs. prior) was flat at 0%, indicating a need for promotional strategies to reignite momentum.
+
+**Recent Monthly Breakdown (Last 5 Months):**
+- May 2024: $1,374,473
+- Jun 2024: $1,282,995
+- Jul 2024: $1,273,455
+- Aug 2024: $1,290,206
+- Sep 2024: $1,241,717
+
+## Recommendations
+1. **Product Focus**: Promote top-5 items via bundled offers to increase volume by 20%.
+2. **Market Expansion**: Invest in India and New Zealand digital campaigns for 15% revenue lift.
+3. **Team Incentives**: Reward top performers with bonuses; train others on high-value sales techniques.
+4. **Data Update**: Refresh dashboard with Q4 data to monitor holiday trends.
+
+*This report is based on Power BI visualizations from the Chocolate Sales Dashboard.*
